@@ -1,0 +1,8 @@
+{
+  "name": "tic_tac_toe",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test_script": "test.js"
+  }
+}
